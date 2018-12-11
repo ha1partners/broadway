@@ -59,27 +59,21 @@ p {
 
 /* FOOTER*/
 
-h6 {
-  color: #ffffff;
-  font-size: 11px;
-}
-
-.footer-image {
+.footer--main {
   background-color: dimgray;
   text-align: left;
 }
 
-.footer-nav li {
-  list-style-type: none;
+.footer--main p {
   color: #ffffff;
-  font-size: 18px;
+  font-size: 11px;
   display: inline;
-  padding: 6px;
+  float: left;
 }
 
-.footer-nav a {
+.footer--nav a{
   color: #ffffff;
   font-size: 18px;
-  list-style-type: none;
   display: inline;
+  float right:
 }
